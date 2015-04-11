@@ -1,0 +1,8 @@
+Code Book:
+
+In  the new summary table Vxx.mean is the mean for column Vxx of the original table.
+Similarly Vxx.std_dev is the standard deviation for the column Vxx of the original table.
+
+In the original table activity_code is the column with the activity codes.
+subject_code is the column with subject_codes
+and activity_name is column with activity names.
